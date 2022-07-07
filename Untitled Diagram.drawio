@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T13:26:36.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NqJRrpgvSO7Md1JWm18_" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T13:31:45.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-Bk4zsIRJY9QC8wo41j1" version="20.0.3" type="github">
   <diagram id="J950Aw94-VmknTpwOGAG" name="Page-1">
     <mxGraphModel dx="1209" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,19 +35,19 @@
           <mxGeometry x="280" y="85" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="160" height="320" as="geometry" />
+          <mxGeometry x="480" y="120" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-12" value="FrontEnd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HSIOpty1WGMbiYtMBlIi-13" value="Rendering Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="495" y="150" width="130" height="50" as="geometry" />
+        <mxCell id="HSIOpty1WGMbiYtMBlIi-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="495" y="150" width="235" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-14" value="BFF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="495" y="220" width="130" height="50" as="geometry" />
+          <mxGeometry x="550" y="260" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-15" value="NextJS (LS CUI)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="495" y="290" width="130" height="50" as="geometry" />
+          <mxGeometry x="550" y="340" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-17" value="OPS UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="370" width="130" height="50" as="geometry" />
@@ -60,6 +60,15 @@
         </mxCell>
         <mxCell id="HSIOpty1WGMbiYtMBlIi-20" value="Middlewares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HSIOpty1WGMbiYtMBlIi-21" value="LS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="165" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HSIOpty1WGMbiYtMBlIi-22" value="Drafty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="165" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HSIOpty1WGMbiYtMBlIi-23" value="Rendering Engine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="552" y="197" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
